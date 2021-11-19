@@ -1,0 +1,43 @@
+.title1{
+    width: 100%;
+    height: 50px ;
+    text-align: center;
+    font-family: Arial Narrow;
+    margin-top: 50px;
+    float: left;
+}
+#columna{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    font-family: Arial Narrow;
+    margin-top: 50px;
+}
+
+
+#columna1{
+    text-align: justify;
+    border: white 8px groove;
+    width: 520px;
+    font-size: 20px;
+    
+}
+    
+#columna2{
+    
+    width: 50px;
+}  
+#columna3{
+    text-align: justify;
+    border: white 8px groove;
+    width: 520px;
+    font-size: 20px;
+    background-color: rgb(170, 170, 162);
+
+}
+    
+
+
+
+    
+  
